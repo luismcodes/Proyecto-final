@@ -1,5 +1,5 @@
 body{
-	background: #000;
+	background: white;
 	background-image: url(http://www.doyoucity.com/site_media/entradas/imgs/ffgeg.jpg);
 	color: #fff;
 	text-align: center;
@@ -11,6 +11,27 @@ body{
 a{
 	color: #2F6699;
 	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: #2F6699; 
+}
+#header{
+	background: black;
+	color: white;
+	margin: 0px;
+	padding: 1.5em;
+}
+#header a{
+	color: white;
+	font-family:  'Prompt', sans-serif;
+	font-size: 14px;
+}
+#header a:hover{
+	text-decoration: underline;
+}
+.space-left{
+	margin-left: 1em;
 }
 #container{
 	width: 80%;

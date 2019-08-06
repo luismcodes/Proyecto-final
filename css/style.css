@@ -1,5 +1,5 @@
 body{
-	background: white;
+	background: black;
 	background-image: url(http://www.doyoucity.com/site_media/entradas/imgs/ffgeg.jpg);
 	color: #fff;
 	text-align: center;
@@ -51,4 +51,25 @@ a:hover{
 }
 #video{
 	margin-top: 90px;
+}
+#footer{
+	background: black;
+	color: white;
+	margin: 0px;
+	padding: 1em;
+	margin-top: 12em;
+}
+#footer a{
+	color: white;
+	font-family:  'Prompt', sans-serif;
+	font-size: 11px;
+	margin-left: 1.5em;
+}
+#footer a:hover{
+	text-decoration: underline;
+}
+#footer .wall{
+	font-size: 11px;
+	color: gray;
+	margin: 5px;
 }

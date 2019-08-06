@@ -1,0 +1,33 @@
+body{
+	background: #000;
+	background-image: url(http://www.doyoucity.com/site_media/entradas/imgs/ffgeg.jpg);
+	color: #fff;
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+a{
+	color: #2F6699;
+	text-decoration: none;
+}
+#container{
+	width: 80%;
+	padding: 0;
+	text-align: center;
+	border: 0px solid #333;
+	margin: 0 auto;
+}
+#title{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70px;
+}
+#trunk p{
+	font-family: 'Arial';
+	font-size: 14px;
+	line-height: 23px;
+}
+#video{
+	margin-top: 90px;
+}
